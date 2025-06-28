@@ -1,4 +1,4 @@
-# Folasade A Balogun – Cybersecurity Analyst
+# Folasade A. Balogun – Cybersecurity Analyst
 
 👋 Hello! I’m Folasade A Balogun, a results-driven Cybersecurity Analyst with two years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
 
