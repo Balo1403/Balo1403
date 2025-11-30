@@ -76,7 +76,7 @@
 ## Contact
 
 - **LinkedIn:** www.linkedin.com/in/folasade-balogun-4b853576 
-- **Email:** shady_4real2006@yahoo.com  
+- **Email:** folasade.balogun@yahoo.com  
 - 
 
 ---
